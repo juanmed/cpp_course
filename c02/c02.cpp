@@ -25,6 +25,8 @@ int main(){
 	cout << "Tamano de double: " << sizeof(double) << endl;
 	cout << "Tamano de long double: " << sizeof(long double) << endl;
 	cout << "Tamano de wchar_t: " << sizeof(wchar_t) << endl;
+	cout << "Tamano de long long: " << sizeof(long long) << endl;
+	cout << "Tamano de long: " << sizeof(long) << endl;
 
 	return 0;
 }
