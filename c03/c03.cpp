@@ -1,4 +1,12 @@
 /*
+Para compilar
+
+g++ c03.cpp -o c03.out
+
+para ejecutar
+
+./c03.out
+
 */
 
 #include<iostream>
