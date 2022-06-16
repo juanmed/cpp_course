@@ -2,7 +2,7 @@
 
 Para compilar
 
-g++ c17.cpp
+g++ c28.cpp
 
 para ejecutar
 
